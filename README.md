@@ -32,10 +32,4 @@ npm start
 
 ### Walkthrough
 
-###
-- to regiester twitter app https://apps.twitter.com/app/new
-
-![Video Walkthrough](...)
-
-
-
+![Video Walkthrough](https://github.com/yidea/nodejs-social-feed/blob/master/gif/feed.gif)
